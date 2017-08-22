@@ -1,0 +1,4 @@
+# Disable gif ads.
+
+i.v2ex.co/*.gif
+v2ex.assets.uxengine.net/assets/sidebar/*.gif
